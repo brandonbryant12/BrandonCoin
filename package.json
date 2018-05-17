@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/brandonbryant12/BrandonCoin#readme",
   "dependencies": {
-    "npm": "^6.0.1"
+    "npm": "^6.0.1",
+    "truffle": "^4.1.8"
   }
 }
