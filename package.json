@@ -1,0 +1,25 @@
+{
+  "name": "brandoncoin",
+  "version": "1.0.0",
+  "description": "This projects creates an ERC20 Token with the Open Zeplin library.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonbryant12/BrandonCoin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brandonbryant12/BrandonCoin/issues"
+  },
+  "homepage": "https://github.com/brandonbryant12/BrandonCoin#readme",
+  "dependencies": {
+    "npm": "^6.0.1"
+  }
+}
