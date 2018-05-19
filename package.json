@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/brandonbryant12/BrandonCoin#readme",
   "dependencies": {
+    "node": "^10.1.0",
     "npm": "^6.0.1",
-    "truffle": "^4.1.8"
+    "truffle": "^4.1.8",
+    "zeppelin-solidity": "^1.7.0"
   }
 }
